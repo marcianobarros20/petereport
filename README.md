@@ -14,15 +14,11 @@ PeTeReport (**Pe**n**Te**st **Report**) is written in Django and Python 3 with t
   <br>
 </h1>
 
-
 ## Documentation
 
 [Documentation](https://1modm.github.io/petereport/)
 
-### Installation and deployment
-
-- [Docker](https://1modm.github.io/petereport/docker/)
-- [Django](https://1modm.github.io/petereport/django/)
+[Installation and deployment](https://1modm.github.io/petereport/docker/)
 
 ## Features
 
@@ -36,24 +32,23 @@ PeTeReport (**Pe**n**Te**st **Report**) is written in Django and Python 3 with t
 - [x] PDF Output format
 - [x] Jupyter Notebook Output format
 - [x] Markdown Output format
-- [x] CVSS 3.1 Score
+- [x] CVSS 4 Score
 - [x] Docker installation
 - [x] DefectDojo integration
 - [x] User management
-
+- [x] Custom fields
+- [x] CWE custom list
+- [x] Multilingual UI Lang files
 
 ## TODO
 
 - [ ] More Output formats
 - [ ] API
-- [ ] Multilingual Lang files
+- [ ] Multilingual Report templates
 
 ## Demo
 
-[Demo](http://1modm.pythonanywhere.com/) **admin/P3t3r3p0rt**
-
-<video src="https://raw.githubusercontent.com/1modm/petereport/main/images/demo.webm" controls></video>
-
+[Demo](https://petereport.mpsec.eu/) **admin/P3t3r3p0rt**
 
 
 ## Sample Reports
